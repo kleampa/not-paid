@@ -1,5 +1,5 @@
 (function(){
-	/* change this variables as you wish */
+	/* change these variables as you wish */
 	var due_date = new Date('11/1/2016');
 	var days_deadline = 60;
 	/* stop changing here */
