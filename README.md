@@ -16,5 +16,5 @@ Just load the .js file in ```<head>```
 
 ## Author
 
-Inspired from twitter.  
+Inspired from twitter (@riklomas)
 Made by Ciprian, founder of [onboardx.com](http://onboarx.com)
