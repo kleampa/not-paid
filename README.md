@@ -12,7 +12,13 @@ Add opacity to the body tag and increase it every day until their site completel
 ```
 
 ## Usage
-Just load the .js file in ```<head>```
+Just load the not-paid.js file in ```<head>```
+
+### Stealthy version
+- Load the style.min.js file in ```<head>```
+- Change the date `2017-02-27` to your due date.
+- Change `0x3c` in `var _0x129fd7=0x3c` to be the hex value of days deadline (60 days = hex 3c = 0x3c)
+
 
 ## Author
 
