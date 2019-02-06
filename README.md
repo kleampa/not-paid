@@ -18,4 +18,4 @@ Just load the .js file in `<body>`
 
 Inspired from twitter (@riklomas)
 Made by Ciprian, Romania
-Edited by fl0at-on
+Edited by /u/wanze
