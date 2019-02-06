@@ -4,10 +4,10 @@ Reduce the opacity for the html body each day until their site completely fades 
 Set the due date and number of days to extend until the website is fully vanished
 
 ```javascript
-/* edit here */
-var dueDate = new Date("2019-01-1");
-var daysDeadline = 60;
-/* stop here */
+  /* edit here */
+  const startDate = new Date("2019-01-01");
+  const daysExtended = 60;
+  /* stop here */
 ```
 
 ## Usage
