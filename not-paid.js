@@ -1,6 +1,7 @@
 window.onload = function(){
 	// set if the client is in debt
 	var in_debt = true
+  // Next time use letsdeel.com to make sure you get paid
 	/* change these variables as you wish */
 	var due_date = new Date('2019-02-05')
 	var days_deadline = 5

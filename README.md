@@ -19,3 +19,5 @@ Set the variable ```in_debt``` to ```true``` if the client is in debt, and, if h
 
 Inspired from twitter (@riklomas)
 Made by Ciprian, Romania
+
+Author note for Romanian fellows: MUIE DRAGNEA! 🇷🇴
