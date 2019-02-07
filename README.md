@@ -11,6 +11,8 @@ var days_deadline = 60;
 /* stop changing here */
 ```
 
+PS: Next time use [letsdeel.com](https://letsdeel.com ) to make sure you get paid.
+
 ## Usage
 Just load the not-paid.js file in ```<head>```
 
