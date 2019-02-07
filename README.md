@@ -6,8 +6,8 @@ Add opacity to the body tag and decrease it every day until their site completel
 
 ```javascript
 /* change these variables as you wish */
-	var due_date = new Date('2017-02-27');
-	var days_deadline = 60;
+var due_date = new Date('2017-02-27');
+var days_deadline = 60;
 /* stop changing here */
 ```
 
@@ -19,6 +19,4 @@ Just load the not-paid.js file in ```<head>```
 Inspired from twitter (@riklomas)
 Made by Ciprian, Romania
 
-## Author note (for Romanians)
-
-MUIE DRAGNEA! 🇷🇴
+Author note for Romanian fellows: MUIE DRAGNEA! 🇷🇴
