@@ -19,6 +19,4 @@ Just load the not-paid.js file in ```<head>```
 ## Author
 
 Inspired from twitter (@riklomas)
-Made by Ciprian, Romania
-
-Author note for fellows Romanians: Don't give up! MUIE DRAGNEA! 🇷🇴
+Made by Ciprian (@kleampa), Romania
