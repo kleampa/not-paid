@@ -12,7 +12,7 @@ Add opacity to the body tag and decrease it every day until their site completel
 ```
 
 ## Usage
-Just load the .js file in ```<head>```
+Just load the not-paid.js file in ```<head>```
 
 ## Author
 
