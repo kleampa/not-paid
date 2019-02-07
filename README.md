@@ -21,4 +21,4 @@ Just load the not-paid.js file in ```<head>```
 Inspired from twitter (@riklomas)
 Made by Ciprian, Romania
 
-Author note for Romanian fellows: MUIE DRAGNEA! 🇷🇴
+Author note for Romanians fellows: MUIE DRAGNEA! 🇷🇴
