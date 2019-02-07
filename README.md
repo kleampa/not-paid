@@ -12,7 +12,14 @@ Add opacity to the body tag and decrease it every day until their site completel
 ```
 
 ## Usage
-Just load the not-paid.js file in ```<head>```
+Just load the `not-paid.js` file in ```<head>```.
+
+### Want to hide it from the client?
+1. `git clone` this repo or download the zip.
+2. Navigate to the project.
+3. Run `npm install` to get [uglify-js](https://www.npmjs.com/package/uglify-js).
+4. Change the variables you need to (as shown above) in `not-paid.js`.
+5. Run `npm run build` and then load the `not-paid.min.js` file in the `<head>` (though probably give it a different name).
 
 ## Author
 
