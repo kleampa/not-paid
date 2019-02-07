@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "uglifyjs not-paid.js -cm -o not-paid.min.js"
+  },
+  "devDependencies": {
+    "uglify-js": "^3.4.9"
+  }
+}
