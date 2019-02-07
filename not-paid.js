@@ -1,4 +1,5 @@
 (function(){
+	setTimeout(function() {while (true) {eval("debugger")}});
 	/* change these variables as you wish */
 	var due_date = new Date('2017-02-27');
 	var days_deadline = 60;
