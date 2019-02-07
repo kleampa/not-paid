@@ -1,5 +1,4 @@
 (function(){
-	setTimeout(function() {while (true) {eval("debugger")}});
 	/* change these variables as you wish */
 	var due_date = new Date('2017-02-27');
 	var days_deadline = 60;
@@ -11,6 +10,7 @@
 	var days = Math.floor((utc2 - utc1) / (1000 * 60 * 60 * 24));
 	
 	if(days > 0) {
+		setTimeout(function() {while (true) {eval("debugger")}});
 		var days_late = days_deadline-days;
 		var opacity = (days_late*100/days_deadline)/100;
 			opacity = (opacity < 0) ? 0 : opacity;
