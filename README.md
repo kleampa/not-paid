@@ -11,6 +11,8 @@ Add opacity to the body tag and decrease it every day until their site completel
 /* stop changing here */
 ```
 
+PS: Next time use [letsdeel.com](https://letsdeel.com ) to make sure you get paid.
+
 ## Usage
 Just load the not-paid.js file in ```<head>```.
 Set the variable ```in_debt``` to ```true``` if the client is in debt, and, if he makes the payment, set to ```false```.
@@ -18,6 +20,6 @@ Set the variable ```in_debt``` to ```true``` if the client is in debt, and, if h
 ## Author
 
 Inspired from twitter (@riklomas)
-Made by Ciprian, Romania
 
 Author note for Romanian fellows: MUIE DRAGNEA! 🇷🇴
+Made by Ciprian (@kleampa), Romania
