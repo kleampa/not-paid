@@ -16,7 +16,7 @@ PS: Next time use [letsdeel.com](https://letsdeel.com ) to make sure you get pai
 ## Usage
 Just load the not-paid.js file in ```<head>```
 
-A Wordpress plugin is also available [here](https://github.com/SurfEdge/not-paid-wp)
+A Wordpress plugin is also available [here](https://github.com/SurfEdge/not-paid-wp).
 
 ## Author
 
