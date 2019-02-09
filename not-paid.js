@@ -19,7 +19,7 @@
 		if(opacity >= 0 && opacity <= 1) {
 			document.getElementsByTagName("BODY")[0].style.opacity = opacity;
 		}
-		if(opacity == 0 && deadline_message != "") {
+		if(!opacity && deadline_message) {
             alert(deadline_message);
         }
 	}
