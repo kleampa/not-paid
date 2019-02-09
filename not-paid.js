@@ -20,8 +20,8 @@
 			document.getElementsByTagName("BODY")[0].style.opacity = opacity;
 		}
 		if(!opacity && deadline_message) {
-            alert(deadline_message);
-        }
+                        alert(deadline_message);
+                }
 	}
 	
 })()
