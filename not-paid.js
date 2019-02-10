@@ -18,7 +18,5 @@
 		if(opacity >= 0 && opacity <= 1) {
 			document.getElementsByTagName("BODY")[0].style.opacity = opacity;
 		}
-		
 	}
-	
-})()
+})();
