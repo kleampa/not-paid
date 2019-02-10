@@ -3,7 +3,7 @@
 	/* change these variables as you wish */
 	var due_date = new Date('2017-02-27');
 	var days_deadline = 60;
-    var deadline_message = ""; /* Leave empty string to disable */
+        var deadline_message = ""; /* Leave empty string to disable */
 	/* stop changing here */
 	
 	var current_date = new Date();
