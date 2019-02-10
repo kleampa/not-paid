@@ -23,4 +23,4 @@ A Wordpress plugin is also available [here](https://github.com/SurfEdge/not-paid
 Inspired from twitter (@riklomas)
 Made by Ciprian (@kleampa), Romania
 
-PS: No PR's or issues will be accepted for this project
+PS: No PR's or issues will be accepted for this project. 
