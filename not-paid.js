@@ -15,12 +15,11 @@
 		var opacity = (days_late*100/days_deadline)/100;
 			opacity = (opacity < 0) ? 0 : opacity;
 			opacity = (opacity > 1) ? 1 : opacity;
-		var body = document.getElementsByTagName("BODY")[0];
 		if(opacity >= 0 && opacity <= 1) {
-			body.style.opacity = opacity;
+			document.body.style.opacity = opacity;
 		}
 		if(opacity === 0) {
-			body.innerHTML = '';
+			document.body.innerHTML = '';
 		}
 
 	}
