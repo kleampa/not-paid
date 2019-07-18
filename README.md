@@ -1,32 +1,22 @@
-## Client did not pay?
+## Il cliente non ha pagato?
 
-
-Add opacity to the body tag and decrease it every day until their site completely fades away. Set a due date and customize the number of days you offer them until the website is fully vanished. 
+Fai diventare il loro sito sempre più opaco fino a quando non svanisce completamente. Imposta una data di scadenza e personalizza il numero di giorni che gli offri per pagare fino a quando il sito web non è completamente svanito.
 
 
 ```javascript
-/* change these variables as you wish */
-var due_date = new Date('2017-02-27');
+/* cambia queste variabili a tuo piacimento */
+var due_date = new Date('2019-12-31');
 var days_deadline = 60;
-/* stop changing here */
+/* non cambiare da qui in poi */
 ```
 
-PS: Next time use [letsdeel.com](https://letsdeel.com ) to make sure you get paid.
+## Uso
+Carica semplicemente il file not-paid.js in ```<head>```
 
-## Usage
-Just load the not-paid.js file in ```<head>```
+È disponibile un plugin per WordPress [qui](https://github.com/SurfEdge/not-paid-wp).
 
-A Wordpress plugin is also available [here](https://github.com/SurfEdge/not-paid-wp).
+C'è anche una versione per Android [qui](https://github.com/theapache64/faded).
 
-There's also an Android version available [here](https://github.com/theapache64/faded).
+## Autore
 
-## Author
-
-Inspired from twitter (@riklomas)
-Made by Ciprian (@kleampa), Romania
-
-PS: No PR's or issues will be accepted for this project. 
-
-## Advertising
-
-Because this repo is going viral from time to time to developers, I'm open for discussion if you want to promote a product/service in this README file. Just mail me at kleampa[]gmail
+Inspired from twitter (@riklomas). Made by Ciprian (@kleampa), Romania. Modified and translated into Italian by Trainax.
