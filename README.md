@@ -11,11 +11,11 @@ var days_deadline = 60;
 ```
 
 ## Uso
-Carica semplicemente il file not-paid.js in ```<head>```
+Carica semplicemente il file not-paid.js nel ```<head>```
 
-È disponibile un plugin per WordPress [qui](https://github.com/SurfEdge/not-paid-wp).
-
-C'è anche una versione per Android [qui](https://github.com/theapache64/faded).
+- È disponibile un plugin per WordPress [qui](https://github.com/SurfEdge/not-paid-wp).
+- C'è anche una versione per Android [qui](https://github.com/theapache64/faded).
+- C'è una versione per Windows Forms [qui](https://github.com/g-otn/winforms-not-paid).
 
 ## Autore
 
