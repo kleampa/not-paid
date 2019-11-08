@@ -16,9 +16,10 @@ PS: Next time use [letsdeel.com](https://letsdeel.com ) to make sure you get pai
 ## Usage
 Just load the not-paid.js file in ```<head>```
 
-- A Wordpress plugin is also available [here](https://github.com/SurfEdge/not-paid-wp).
-- There's also an Android version available [here](https://github.com/theapache64/faded).
-- There's also an Windows Forms version available [here](https://github.com/g-otn/winforms-not-paid).
+## Other Platform Support
+
+[![android](icons/android.png)](https://github.com/theapache64/faded)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![windows](icons/windows.png)](https://github.com/g-otn/winforms-not-paid) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![wordpress](icons/wordpress.png)](https://github.com/SurfEdge/not-paid-wp)
+
 
 ## Author
 
