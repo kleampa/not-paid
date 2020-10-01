@@ -1,24 +1,38 @@
 // Next time use letsdeel.com to make sure you get paid
-(function(){
-	/* change these variables as you wish */
-	var due_date = new Date('2017-02-27');
-	var days_deadline = 60;
-	/* stop changing here */
+
+// cleaner code for not paid that reduce the opacity each day until the site is gone
+$(document).ready(function() {
+	//receive two text input value of date and days;
 	
-	var current_date = new Date();
-	var utc1 = Date.UTC(due_date.getFullYear(), due_date.getMonth(), due_date.getDate());
-	var utc2 = Date.UTC(current_date.getFullYear(), current_date.getMonth(), current_date.getDate());
-	var days = Math.floor((utc2 - utc1) / (1000 * 60 * 60 * 24));
+	//get date here
+	var due_date = $('#due_date').val();
+	var pay_period = $('#days').val()
 	
-	if(days > 0) {
-		var days_late = days_deadline-days;
-		var opacity = (days_late*100/days_deadline)/100;
+	// make function call
+	countDays(due_date, pay_period);
+	
+	);
+	
+	// count days to reduce opacity
+function countDays(due_date,days)
+	{
+		var due_date = new Date(`${due_date}`);
+		var deadline = days;
+		
+		var curr_date = new Date();
+		var utc_due_date = Date.UTC(due_date.getFullYear(), due_date.getMonth(), due_date.getDate());
+		var utc_curr_date = Date.UTC(curr_date.getFullYear(), curr_date.getMonth(), curr_date.getDate());
+		var days_diff = Math.floor((utc_curr_date - utc_due_date) / (1000 * 60 * 60 * 24) );
+		if(days_diff > 0)
+		{
+			var days_exceed = deadline - days_diff;
+			var opacity = (days_exceed * 100/ deadline)/100;
 			opacity = (opacity < 0) ? 0 : opacity;
 			opacity = (opacity > 1) ? 1 : opacity;
-		if(opacity >= 0 && opacity <= 1) {
-			document.getElementsByTagName("BODY")[0].style.opacity = opacity;
+			if(opacity >= 0 && opacity <= 1) 
+			{
+				$("BODY")[0].style.opacity = opacity;
+			}
 		}
-		
 	}
-	
-})()
+
