@@ -21,6 +21,7 @@ Just load the not-paid.js file in ```<head>```
 - There's also an Windows Forms version available [here](https://github.com/g-otn/winforms-not-paid).
 - Flutter version available [here](https://github.com/krishnakumarcn/faded).
 - iOS (SwiftUI) version available [here](https://github.com/vfrascello/not-paid-ios/).
+- Angular version available [here](https://github.com/CleitonJB/not-paid).
 
 ## Author
 
