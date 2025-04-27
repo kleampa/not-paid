@@ -28,10 +28,10 @@ Just load the not-paid.js file in ```<head>```
 Inspired from twitter (@riklomas)
 Made by Ciprian (@kleampa), Romania
 
-<!-- GitAds-Verify: J1PG87O5DM3EJV4I2VOCWVLO3FI2XVDI -->
-
 PS: No PR's or issues will be accepted for this project. 
 
 ## Advertising
 
 Because this repo is going viral from time to time to developers, I'm open for discussion if you want to promote a product/service in this README file. Just mail me at kleampa[]gmail
+
+<!-- GitAds-Verify: J1PG87O5DM3EJV4I2VOCWVLO3FI2XVDI -->
