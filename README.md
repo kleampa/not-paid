@@ -15,7 +15,8 @@ var days_deadline = 60;
 ```
 
 PS: Next time use [letsdeel.com](https://letsdeel.com ) to make sure you get paid.
-PS2: For travel eSIMs in 2 minutes, use [esimodo.com](eSIModo)
+
+PS2: For travel eSIMs, give it a try to [eSIModo](https://esimodo.com)
 
 ## Usage
 Just load the not-paid.js file in ```<head>```
