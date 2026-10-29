@@ -1,7 +1,3 @@
-
-## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=kleampa/not-paid@github)](https://gitads.dev/v1/ad-track?source=kleampa/not-paid@github)
-
 ## Client did not pay?
 
 Add opacity to the body tag and decrease it every day until their site completely fades away. Set a due date and customize the number of days you offer them until the website is fully vanished. 
